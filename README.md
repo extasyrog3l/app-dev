@@ -1,52 +1,54 @@
-# Severance
+# La Casa de Papel (Money Heist)
 
-**Severance** is an *Apple TV+* science fiction psychological thriller series created by Dan Erickson and directed primarily by Ben Stiller[cite: 1]. 
+**La Casa de Papel** is a *Spanish heist crime drama* created by Álex Pina.
 
-> "The work is mysterious and important." — Kier Eagan[cite: 1]
+> "In this world, everything is governed by balance. There's what you stand to gain and what you stand to lose." — The Professor
 
 ---
 
 ## Plot Overview {#plot-overview}
 
-Employees at **Lumon Industries** undergo a surgical procedure called `severance` that separates their non-work memories from their work memories[cite: 1, 2]. When at work, their "innie" has no recollection of their outside life, and when they leave, their "outie" has no memory of their job[cite: 1]. Originally, I thought this was just a standard corporate satire, ~~but it is actually a deeply unsettling mystery~~ and ==one of the most gripping shows on television==.
+A criminal mastermind known as **The Professor** recruits eight specialists with code names based on cities to execute an ambitious `heist` on the Royal Mint of Spain. Rather than stealing existing money, ~~they rob the bank vaults~~ and ==print €2.4 billion in untraceable bills== while holding 67 hostages inside.
 
-### Core Departments
+### Main Crew
 
-| Department | Function | Key Members |
+| Code Name | Real Name | Specialty |
 | ----------- | ----------- | ----------- |
-| Macrodata Refinement (MDR) | Sorting numbers into emotional bins | Mark S., Helly R., Irving B., Dylan G. |
-| Optics & Design (O&D) | Producing artwork and props for the company | Burt G., Felicia |
+| The Professor | Sergio Marquina | Mastermind and outside strategist |
+| Berlin | Andrés de Fonollosa | Second-in-command and jewel thief |
+| Tokyo | Silene Oliveira | Field operative and narrator |
+| Nairobi | Ágata Jiménez | Counterfeiting and quality control |
 
-### Top 3 Reasons to Watch
+### Top 3 Highlights
 
-1. **Brilliant World-Building**: The retro-futuristic aesthetic and sterile hallways create constant tension[cite: 1].
-2. **Phenomenal Cast**: Adam Scott, Britt Lower, Zach Cherry, John Turturro, and Patricia Arquette deliver standout performances[cite: 1].
-3. **Unpredictable Pacing**: Every episode peels back another layer of Lumon's true purpose [^1][cite: 1, 2].
+1. **Tactical Mind Games**: The Professor constantly outsmarts the police force from the outside.
+2. **Iconic Visuals**: Red jumpsuits, Salvador Dalí masks, and the anthem *Bella Ciao*.
+3. **High-Stakes Tension**: Every plan faces unexpected betrayals and tight deadlines [^1].
 
 ---
 
 ## Key Terminology & Details
 
-Innie
-: The version of an employee that exists exclusively inside the severed floor of Lumon Industries[cite: 2].
+Bella Ciao
+: An Italian anti-fascist folk song used by the crew as a symbol of resistance and freedom.
 
-Outie
-: The version of an employee that lives in the outside world with no knowledge of their work[cite: 2].
+The Dalí Mask
+: The disguise worn by the robbers and hostages to obscure identities and create confusion for snipers.
 
-### Watchlist & Easter Eggs
+### Watchlist & Trivia
 
-- [x] Watch Season 1[cite: 2]
-- [x] Watch Season 2[cite: 2]
-- [ ] Rewatch to spot every hidden clue :eyes:[cite: 2]
+- [x] Watch Part 1 & 2 (Royal Mint Heist)
+- [x] Watch Part 3, 4 & 5 (Bank of Spain Heist)
+- [ ] Watch the *Berlin* spin-off series :mask:
 
-- **Official Stream**: [Watch on Apple TV+](https://tv.apple.com)[cite: 1]
-- **Promotional Poster**: ![Severance Poster](severance_poster.jpg)[cite: 1]
-- **Scientific Note**: Lumon's severance chip interacts directly with brainwave frequencies (such as alpha^2^ waves) and neural pathways without altering basic biology like H~2~O intake[cite: 1, 2].
+- **Official Stream**: [Watch on Netflix](https://www.netflix.com)
+- **Series Poster**: ![La Casa de Papel Poster](money_heist_poster.jpg)
+- **Technical Note**: The printing presses run at 10^6^ bills per cycle, requiring specialized paper made of cotton fibers rather than standard H~2~O-based wood pulp.
 
 ```json
 {
-  "department": "Macrodata Refinement",
-  "file": "Cold Harbor",
-  "status": "In Progress",
-  "quotaMet": false
+  "target": "Royal Mint of Spain",
+  "goal": "€2.4 Billion",
+  "hostages": 67,
+  "planActive": true
 }
